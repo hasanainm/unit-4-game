@@ -1,0 +1,28 @@
+.crystal {
+  height: 230px;
+  width: 285px;
+  margin: 10px;
+}
+
+#scores {
+  background-color: black;
+  color: white;
+  font-size: 18pt;
+  width: 15%;
+  padding: 5px;
+}
+
+#usertotalscore {
+  background-color: black;
+  color: white;
+  font-size: 18pt;
+  width: 15%;
+  padding: 5px;
+}
+#winning {
+  background-color: black;
+  color: white;
+  font-size: 18pt;
+  width: 15%;
+  padding: 5px;
+}
